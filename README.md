@@ -13,12 +13,12 @@
    ```
 
 4. **Start the app (tunnel mode):**  
-````
+
 
 
    ```bash
    npx expo start -c --tunnel
-   ````
+   ```
 
 5. **Scan the QR code** using the **Expo Go** app on your mobile device to see the app running.
 
