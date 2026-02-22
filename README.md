@@ -40,6 +40,26 @@ The app works on iOS and Android (not on web) and is simple and beginner-friendl
 
 5. **Scan the QR code** using the **Expo Go** app on your mobile device to see the app running.
 
+---
+
+## 🔮 Future Steps
+
+These are the next goals for the project as it grows into the full product of the startup:
+
+* **Build the core app structure** (navigation, screens, data flow, hooks, and reusable components)
+* **Create user accounts and login system**
+* **Implement the design, structure, and content by taking them from UI/UX**
+* **Start connecting features that will become the foundation of the startup idea**
+
+This phase is about setting the "skeleton" of the full application before adding advanced features.
+
+---
+
+## 👤 Credits
+
+* **Me** — co-Developer of the project
+* **AI assistance** — Helped with explanations, debugging, the README, and structure
+* **My brother** — Helped with small parts of the development process and the README as well
 
 
 
