@@ -8,10 +8,11 @@
 
 3. **Open the terminal and run:**
 
-   ```bash
-   ```
+  
+      npx create-expo-app@latest ./
+  
 
-npx create-expo-app@latest ./
+
 
 ````
 
