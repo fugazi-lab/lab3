@@ -1,4 +1,4 @@
-## ▶️ How to Run the App
+##  How to Run the App
 
 1. **Download the project**
    Click the **green "Code" button** on GitHub → **Download ZIP**.
@@ -8,15 +8,14 @@
 
 3. **Open the terminal and run:**
 
-  
-      npx create-expo-app@latest ./
-  
-
-
-
-````
+   ```bash
+   npx create-expo-app@latest ./
+   ```
 
 4. **Start the app (tunnel mode):**  
+````
+
+
 ```bash
 npx expo start -c --tunnel
 ````
